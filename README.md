@@ -1,6 +1,6 @@
 # Ecommerce Analysis in Power BI
 
-In this Power BI project, we're going to check out the data from a real online store. We'll look at stuff that could help a **pet supply company** named Whiskique. By studying the information, we want to find useful tips to make Whiskique even better. We'll look at what customers like, how things are selling, and where Whiskique can do better. This way, Whiskique can make smart choices and grow their business.
+In this Power BI project, we're going to check out the data from a real online store. We'll look at stuff that could help a **pet supply company** named Whiskique. By studying the information, we want to find useful tips to make Whiskique even better. We'll look at what customers like, how things are selling, and where Whiskique can do better. This way, Whiskique can make smart choices and grow their business
 ### Metadata
 
 We will be using a fictitious data source for product sales. The data is located in **four CSV files**. The sales table is the primary transaction table. The product and customer tables contain additional attributes. The state mapping has consistent values for locations. We will be creating relationships between the tables during our data preparation steps.
